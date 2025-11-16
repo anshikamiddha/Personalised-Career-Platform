@@ -1,3 +1,21 @@
+📌 Personalized Career Guidance Platform
+
+A web-based platform that provides personalized career recommendations to students and professionals using skill assessment, AI-driven suggestions, and career roadmap guidance.
+
+
+🚀 Features
+
+✔️ User Registration & Login
+✔️ Skill & Interest Assessment Test
+✔️ AI-Based Personalized Career Suggestions
+✔️ Career Roadmaps & Required Skills
+✔️ Recommended Courses, Internships & Certifications
+✔️ Resume Score & Improvement Tips
+✔️ Dashboard to Track Progress
+
+
+
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
